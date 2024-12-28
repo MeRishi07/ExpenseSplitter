@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 ### 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MeRishi07/ExpenseTracker.git
+   git clone https://github.com/MeRishi07/ExpenseSplitter.git
    cd Daily-Expenses-Sharing-Application
 
 # ⚙️configuration 
