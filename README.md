@@ -3,6 +3,8 @@
 ## 📘 Introduction
 The Daily Expenses Sharing Application allows users to add expenses and split them among participants using three different methods: equal splits, exact amounts, and percentages. The application also provides features for user management and generates downloadable balance sheets.
 
+![Expense Tracker](https://github.com/MeRishi07/ExpenseTracker/blob/26ca5560bec4b489a0525effa64ce2b15fdd0289/Daily-Expenses-Sharing-Application/5e7e63f9dad44d6cbe2245c4_trw%20home.png)
+
 ## ✨ Features
 ### User Management:
   - 👤Create and retrieve user details.
