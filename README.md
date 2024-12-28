@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 ### 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/KondaShriya/Daily-Expenses-Sharing-Application
+   git clone https://github.com/MeRishi07/ExpenseTracker.git
    cd Daily-Expenses-Sharing-Application
 
 # ⚙️configuration 
@@ -99,8 +99,8 @@ Before you begin, ensure you have the following installed:
  ### Request Body:
   
    - {
-   - "email": "kondashriya8@gmail.com",
-   - "name": "Shriya Konda",
+   - "email": "rishi@gmail.com",
+   - "name": "Rishi P",
    - "mobile": "1234567890"
    - }
    
